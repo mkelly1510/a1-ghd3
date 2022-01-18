@@ -1,10 +1,11 @@
-Assignment 1 - Hello World: GitHub and d3 - Madyson Kelly
+Assignment 1 - Hello World: GitHub and d3 - mpkelly
 ===
 
 URL: https://mkelly1510.github.io/a1-ghd3/
-Screenshot 1:
-Screenshot 2:
 
+Screenshot 1:
+
+Screenshot 2:
 
 Circle
 ---
